@@ -1,0 +1,4 @@
+Seq #,URI Pattern,Element Selector
+1,^((/d2l/login)|(/d2l/logout)).*$,null
+2,^/d2l/le/activities/edit/.*$,body
+3,.*,div.d2l-page-main

@@ -1,0 +1,302 @@
+Category,Page Title,Page URL,Page URI,Regex Pattern
+Account Settings,Account Settings,https://gastate.view.usg.edu/d2l/lp/preferences/preferences_main/preferences_main.d2l?ou=1070555,/d2l/lp/preferences/preferences_main/preferences_main.d2l?ou=1070555,^/d2l/lp/preferences/preferences_main/preferences_main\\.d2l.*$
+Announcements,Announcements,https://gastate.view.usg.edu/d2l/lms/news/main.d2l?ou=2703385,/d2l/lms/news/main.d2l?ou=2703385,^/d2l/lms/news/.*$
+Announcements,New Announcement,https://gastate.view.usg.edu/d2l/lms/news/newedit.d2l?ou=2809977&global=0,/d2l/lms/news/newedit.d2l?ou=2809977&global=0,^/d2l/lms/news/.*$
+Announcements,Edit Announcement,https://gastate.view.usg.edu/d2l/lms/news/newedit.d2l?ou=2809977&newsId=6307747&Global=0,/d2l/lms/news/newedit.d2l?ou=2809977&newsId=6307747&Global=0,^/d2l/lms/news/.*$
+Assignments,New Assignment (from module),https://gastate.view.usg.edu/d2l/le/activities/edit/TVRBM01EVTFOVjh5TURBd1h6TTJPRFkyTVRZLjI3MDMzODU?launchedFromLessons=False&returnUrl=%2fd2l%2fle%2fcontent%2f2703385%2fviewContent%2f60814317%2fView&isNew=True&returnText=Back+to+Content&optOutUrl=%2fd2l%2fle%2fcontent%2f2703385%2fviewContent%2f60814317%2fView&cancelUrl=%2fd2l%2fle%2fcontent%2f2703385%2fHome,/d2l/le/activities/edit/TVRBM01EVTFOVjh5TURBd1h6TTJPRFkyTVRZLjI3MDMzODU?launchedFromLessons=False&returnUrl=%2fd2l%2fle%2fcontent%2f2703385%2fviewContent%2f60814317%2fView&isNew=True&returnText=Back+to+Content&optOutUrl=%2fd2l%2fle%2fcontent%2f2703385%2fviewContent%2f60814317%2fView&cancelUrl=%2fd2l%2fle%2fcontent%2f2703385%2fHome,^/d2l/le/activities/edit/[a-zA-Z0-9]+\\?.*returnUrl=%2fd2l%2flms%2fdropbox%2fadmin%2f.*$
+Assignments,Edit Assignment,https://gastate.view.usg.edu/d2l/le/activities/edit/TVRBM01EVTFOVjh5TURBd1h6TTJPRGc1TlRBLjI3MDMzODU?launchedFromLessons=False&returnUrl=%2fd2l%2flms%2fdropbox%2fadmin%2ffolders_manage.d2l%3fou%3d2703385&isNew=True&returnText=Back+to+Manage+Assignments&optOutUrl=,/d2l/le/activities/edit/TVRBM01EVTFOVjh5TURBd1h6TTJPRGc1TlRBLjI3MDMzODU?launchedFromLessons=False&returnUrl=%2fd2l%2flms%2fdropbox%2fadmin%2ffolders_manage.d2l%3fou%3d2703385&isNew=True&returnText=Back+to+Manage+Assignments&optOutUrl=,^/d2l/le/activities/edit/[a-zA-Z0-9]+\\?.*returnUrl=%2fd2l%2flms%2fdropbox%2fadmin%2f.*$
+Assignments,Edit Assignment,https://gastate.view.usg.edu/d2l/le/activities/edit/TVRBM01EVTFOVjh5TURBd1h6TTJPVEE0TVRNLjI3MDMzODU?launchedFromLessons=False&returnUrl=%2fd2l%2flms%2fdropbox%2fadmin%2ffolders_manage.d2l%3fou%3d2703385&isNew=True&returnText=Back+to+Manage+Assignments&optOutUrl=,/d2l/le/activities/edit/TVRBM01EVTFOVjh5TURBd1h6TTJPVEE0TVRNLjI3MDMzODU?launchedFromLessons=False&returnUrl=%2fd2l%2flms%2fdropbox%2fadmin%2ffolders_manage.d2l%3fou%3d2703385&isNew=True&returnText=Back+to+Manage+Assignments&optOutUrl=,^/d2l/le/activities/edit/[a-zA-Z0-9]+\\?.*returnUrl=%2fd2l%2flms%2fdropbox%2fadmin%2f.*$
+Assignments,Edit Categories,https://gastate.view.usg.edu/d2l/le/dropbox/admin/categories/2703385/Manage,/d2l/le/dropbox/admin/categories/2703385/Manage,^/d2l/le/dropbox/.*$
+Assignments,Event Log,https://gastate.view.usg.edu/d2l/lms/dropbox/admin/eventLog/2703385/EventLog?ou=2703385,/d2l/lms/dropbox/admin/eventLog/2703385/EventLog?ou=2703385,^/d2l/lms/dropbox/.*$
+Assignments,Assignments,https://gastate.view.usg.edu/d2l/lms/dropbox/admin/folders_manage.d2l?ou=2703385,/d2l/lms/dropbox/admin/folders_manage.d2l?ou=2703385,^/d2l/lms/dropbox/.*$
+Assignments,Bulk Edit Assignments,https://gastate.view.usg.edu/d2l/lms/dropbox/admin/folders_quickedit.d2l?dbl=3112039&dbl=3112034&ou=2703385,/d2l/lms/dropbox/admin/folders_quickedit.d2l?dbl=3112039&dbl=3112034&ou=2703385,^/d2l/lms/dropbox/.*$
+Assignments,Reorder,https://gastate.view.usg.edu/d2l/lms/dropbox/admin/folders_reorder.d2l?ou=2703385,/d2l/lms/dropbox/admin/folders_reorder.d2l?ou=2703385,^/d2l/lms/dropbox/.*$
+Assignments,Writing Assignment: Market Segmentation - Submissions,https://gastate.view.usg.edu/d2l/lms/dropbox/admin/mark/folder_submissions_files.d2l?d2l_isfromtab=1&db=3112034&ou=2703385,/d2l/lms/dropbox/admin/mark/folder_submissions_files.d2l?d2l_isfromtab=1&db=3112034&ou=2703385,^/d2l/lms/dropbox/.*$
+Assignments,Writing Assignment,https://gastate.view.usg.edu/d2l/lms/dropbox/admin/mark/folder_submissions_users.d2l?db=3112034&ou=2703385,/d2l/lms/dropbox/admin/mark/folder_submissions_users.d2l?db=3112034&ou=2703385,^/d2l/lms/dropbox/.*$
+Assignments,Practice Assignment,https://gastate.view.usg.edu/d2l/lms/dropbox/admin/mark/folder_submissions_users.d2l?db=3112039&ou=2703385,/d2l/lms/dropbox/admin/mark/folder_submissions_users.d2l?db=3112039&ou=2703385,^/d2l/lms/dropbox/.*$
+Assignments,Assignments,https://gastate.view.usg.edu/d2l/lms/dropbox/user/folders_list.d2l?isprv=1&bp=1&ou=2703385,/d2l/lms/dropbox/user/folders_list.d2l?isprv=1&bp=1&ou=2703385,^/d2l/lms/dropbox/.*$
+Attendence and Locations,Locations,https://gastate.view.usg.edu/d2l/le/locations/2703385/Home,/d2l/le/locations/2703385/Home,^/d2l/le/locations/.*$
+Attendence and Locations,Seating Chart,https://gastate.view.usg.edu/d2l/le/seatingcharts/2703385/Home,/d2l/le/seatingcharts/2703385/Home,^/d2l/le/seatingcharts/.*$
+Attendence and Locations,Attendance Registers,https://gastate.view.usg.edu/d2l/lms/attendance/registers/registers_list.d2l?ou=2703385,/d2l/lms/attendance/registers/registers_list.d2l?ou=2703385,^/d2l/lms/attendance/.*$
+Broken Links,Broken Links,https://gastate.view.usg.edu/d2l/brokenLinks/2703385,/d2l/brokenLinks/2703385,^/d2l/brokenLinks/.*$
+Checklists,Edit Checklist,https://gastate.view.usg.edu/d2l/lms/checklist/checklist.d2l?checklistId=428974&ou=2703385,/d2l/lms/checklist/checklist.d2l?checklistId=428974&ou=2703385,^/d2l/lms/checklist/.*$
+Checklists,Checklists,https://gastate.view.usg.edu/d2l/lms/checklist/checklists.d2l?ou=2703385,/d2l/lms/checklist/checklists.d2l?ou=2703385,^/d2l/lms/checklist/.*$
+Checklists,Delete Checklists,https://gastate.view.usg.edu/d2l/lms/checklist/delete.d2l?ou=2703385,/d2l/lms/checklist/delete.d2l?ou=2703385,^/d2l/lms/checklist/.*$
+Checklists,New Checklist,https://gastate.view.usg.edu/d2l/lms/checklist/new.d2l?ou=2703385,/d2l/lms/checklist/new.d2l?ou=2703385,^/d2l/lms/checklist/.*$
+Checklists,Reorder Checklists,https://gastate.view.usg.edu/d2l/lms/checklist/reorder.d2l?ou=2703385,/d2l/lms/checklist/reorder.d2l?ou=2703385,^/d2l/lms/checklist/.*$
+Classlist,Enrollment Statistics,https://gastate.view.usg.edu/d2l/lms/classlist/admin/classlist_report.d2l?ou=2703385,/d2l/lms/classlist/admin/classlist_report.d2l?ou=2703385,^/d2l/lms/classlist/.*$
+Classlist,Change Enrollments,https://gastate.view.usg.edu/d2l/lms/classlist/admin/edit_enrollment.d2l?userIds=1431332&ou=2703385,/d2l/lms/classlist/admin/edit_enrollment.d2l?userIds=1431332&ou=2703385,^/d2l/lms/classlist/.*$
+Classlist,Add Existing Users,https://gastate.view.usg.edu/d2l/lms/classlist/admin/participants/participants_add_existing.d2l?ou=2703385,/d2l/lms/classlist/admin/participants/participants_add_existing.d2l?ou=2703385,^/d2l/lms/classlist/.*$
+Classlist,Import Users from File,https://gastate.view.usg.edu/d2l/lms/classlist/admin/participants/participants_add_fromfile.d2l?ou=2703385,/d2l/lms/classlist/admin/participants/participants_add_fromfile.d2l?ou=2703385,^/d2l/lms/classlist/.*$
+Classlist,Settings,https://gastate.view.usg.edu/d2l/lms/classlist/admin/tab_settings.d2l?ou=2703385,/d2l/lms/classlist/admin/tab_settings.d2l?ou=2703385,^/d2l/lms/classlist/.*$
+Classlist,Classlist,https://gastate.view.usg.edu/d2l/lms/classlist/classlist.d2l?ou=2703385,/d2l/lms/classlist/classlist.d2l?ou=2703385,^/d2l/lms/classlist/.*$
+Classlist,Classlist,https://gastate.view.usg.edu/d2l/lms/classlist/classlist.d2l?ou=2703385&tabid=70&d2l_isfromtab=1&d2l_change=0,/d2l/lms/classlist/classlist.d2l?ou=2703385&tabid=70&d2l_isfromtab=1&d2l_change=0,^/d2l/lms/classlist/.*$
+Classlist,Classlist,https://gastate.view.usg.edu/d2l/lms/classlist/classlist.d2l?ou=2703385&tabid=71&d2l_isfromtab=1&d2l_change=1,/d2l/lms/classlist/classlist.d2l?ou=2703385&tabid=71&d2l_isfromtab=1&d2l_change=1,^/d2l/lms/classlist/.*$
+Classlist,Email Classlist,https://gastate.view.usg.edu/d2l/lms/classlist/print_email.d2l?pageOption=email&ou=2703385,/d2l/lms/classlist/print_email.d2l?pageOption=email&ou=2703385,^/d2l/lms/classlist/.*$
+Classlist,Print Classlist,https://gastate.view.usg.edu/d2l/lms/classlist/print_email.d2l?pageOption=print&ou=2703385,/d2l/lms/classlist/print_email.d2l?pageOption=print&ou=2703385,^/d2l/lms/classlist/.*$
+Classlist,View User Profile,https://gastate.view.usg.edu/d2l/lp/profile/profile_view.d2l?ou=2703385&pid=eqs2hy7RlO,/d2l/lp/profile/profile_view.d2l?ou=2703385&pid=eqs2hy7RlO,^/d2l/lp/profile/profile_view\\.d2l.*$
+Competencies,Competencies View,https://gastate.view.usg.edu/d2l/le/lo/2703385/outcomes-gradebook,/d2l/le/lo/2703385/outcomes-gradebook,^/d2l/le/lo/.*$
+Competencies,Competencies View Settings,https://gastate.view.usg.edu/d2l/le/lo/2703385/outcomes-gradebook/settings,/d2l/le/lo/2703385/outcomes-gradebook/settings,^/d2l/le/lo/.*$
+Competencies,Competencies Management,https://gastate.view.usg.edu/d2l/le/lo/2703385/outcomes-management,/d2l/le/lo/2703385/outcomes-management,^/d2l/le/lo/.*$
+Content,Create a File,https://gastate.view.usg.edu/d2l/le/content/2703385/authorHtml/NewFile?parentModuleId=--------,/d2l/le/content/2703385/authorHtml/NewFile?parentModuleId=--------,^/d2l/le/content/[0-9]+/.*$
+Content,Overview,https://gastate.view.usg.edu/d2l/le/content/2703385/Home,/d2l/le/content/2703385/Home,^/d2l/le/content/[0-9]+/.*$
+Content,Content pages,https://gastate.view.usg.edu/d2l/le/content/2703385/viewContent/--------/View,/d2l/le/content/2703385/viewContent/--------/View,^/d2l/le/content/[0-9]+/.*$
+Copy Components/Learning Object Repository,Import/Export/Copy Components,https://gastate.view.usg.edu/d2l/lms/importExport/import_export.d2l?ou=2703385,/d2l/lms/importExport/import_export.d2l?ou=2703385,^/d2l/lms/importExport/.*$
+Copy Components/Learning Object Repository,Manage,https://gastate.view.usg.edu/d2l/lor/admin/lors_list.d2l?ou=2703385,/d2l/lor/admin/lors_list.d2l?ou=2703385,^/d2l/lor/.*$
+Copy Components/Learning Object Repository,Publish New Learning Object,https://gastate.view.usg.edu/d2l/lor/publish/publish.d2l?returnPage=lor&ou=2703385,/d2l/lor/publish/publish.d2l?returnPage=lor&ou=2703385,^/d2l/lor/.*$
+Copy Components/Learning Object Repository,Background Publishing,https://gastate.view.usg.edu/d2l/lor/publish/publish_status.d2l?ou=2703385,/d2l/lor/publish/publish_status.d2l?ou=2703385,^/d2l/lor/.*$
+Copy Components/Learning Object Repository,Search Repository,https://gastate.view.usg.edu/d2l/lor/search/search.d2l?ou=2703385,/d2l/lor/search/search.d2l?ou=2703385,^/d2l/lor/.*$
+Copy Components/Learning Object Repository,Search Results,https://gastate.view.usg.edu/d2l/lor/search/search_results.d2l?ou=2703385&lrepos=1001,/d2l/lor/search/search_results.d2l?ou=2703385&lrepos=1001,^/d2l/lor/.*$
+Course Admin,Course Admin,https://gastate.view.usg.edu/d2l/lp/cmc/main.d2l?ou=2703385,/d2l/lp/cmc/main.d2l?ou=2703385,^/d2l/lp/cmc/.*$
+"Course Design Accelerator, Instructional Design Wizard, and Course Builder",Instructional Design Wizard,https://gastate.view.usg.edu/d2l/lms/accelerator/idw/startWizard.d2l?ou=2703385,/d2l/lms/accelerator/idw/startWizard.d2l?ou=2703385,^/d2l/lms/accelerator/.*$
+"Course Design Accelerator, Instructional Design Wizard, and Course Builder",Course Design Accelerator,https://gastate.view.usg.edu/d2l/lms/accelerator/main.d2l?ou=2703385,/d2l/lms/accelerator/main.d2l?ou=2703385,^/d2l/lms/accelerator/.*$
+"Course Design Accelerator, Instructional Design Wizard, and Course Builder",Course Builder,https://gastate.view.usg.edu/d2l/lms/courseBuilder/welcome.d2l?ou=2703385,/d2l/lms/courseBuilder/welcome.d2l?ou=2703385,^/d2l/lms/courseBuilder/.*$
+Course Homepage,Homepage,https://gastate.view.usg.edu/d2l/home/2703385,/d2l/home/2703385,^/d2l/home/[0-9]+(\\?.*)?$
+Course Search,Advanced Course Search,https://gastate.view.usg.edu/d2l/le/manageCourses/search/1070555,/d2l/le/manageCourses/search/1070555,^/d2l/le/manageCourses/search/.*$
+Dates and Calendar,Availability Date Defaults ,https://gastate.view.usg.edu/d2l/le/availabilitydatedefaults/2703385,/d2l/le/availabilitydatedefaults/2703385,^/d2l/le/availabilitydatedefaults/.*$
+Dates and Calendar,Calendar Agenda View,https://gastate.view.usg.edu/d2l/le/calendar/2703385,/d2l/le/calendar/2703385,^/d2l/le/calendar/.*$
+Dates and Calendar,Edit Event,https://gastate.view.usg.edu/d2l/le/calendar/2703385/event/22222697/edit?year=2024&month=2&day=3,/d2l/le/calendar/2703385/event/22222697/edit?year=2024&month=2&day=3,^/d2l/le/calendar/.*$
+Dates and Calendar,Course Schedule,https://gastate.view.usg.edu/d2l/le/calendar/2703385/event/22640979/detailsview?year=2024&month=2&day=3,/d2l/le/calendar/2703385/event/22640979/detailsview?year=2024&month=2&day=3,^/d2l/le/calendar/.*$
+Dates and Calendar,Create Event,https://gastate.view.usg.edu/d2l/le/calendar/2703385/event/new?year=2024&month=1&day=30,/d2l/le/calendar/2703385/event/new?year=2024&month=1&day=30,^/d2l/le/calendar/.*$
+Dates and Calendar,Manage Dates,https://gastate.view.usg.edu/d2l/lms/manageDates/date_manager.d2l?fromCMC=1&ou=2703385,/d2l/lms/manageDates/date_manager.d2l?fromCMC=1&ou=2703385,^/d2l/lms/manageDates/date_manager.d2l.*$
+Dates and Calendar,Course Offering Information,https://gastate.view.usg.edu/d2l/lp/manageCourses/course_offering_info_viewedit.d2l?ou=2703385,/d2l/lp/manageCourses/course_offering_info_viewedit.d2l?ou=2703385,^/d2l/lp/manageCourses/course_offering_info_viewedit.d2l.*
+Discussions,Topic Statistics,https://gastate.view.usg.edu/d2l/common/popup/popup.d2l?ou=2703385&queryString=ou%3D2703385%26fid%3D1130414%26tid%3D3358416&footerMsg=&buttonOffset=0&popBodySrc=/d2l/lms/discussions/stats/topic_statistics_popup.d2l&width=715&height=650&hasStatusBar=false&hasAutoScroll=true&hasHiddenHeader=false&p=d2l_cntl_4a7bbcd040c449b2b547fe395e7db899_1,/d2l/common/popup/popup.d2l?ou=2703385&queryString=ou%3D2703385%26fid%3D1130414%26tid%3D3358416&footerMsg=&buttonOffset=0&popBodySrc=/d2l/lms/discussions/stats/topic_statistics_popup.d2l&width=715&height=650&hasStatusBar=false&hasAutoScroll=true&hasHiddenHeader=false&p=d2l_cntl_4a7bbcd040c449b2b547fe395e7db899_1,^/d2l/common/popup/popup.d2l\\?.*popBodySrc=/d2l/lms/discussions/.*
+Discussions,"User Statistics (Gray, Dornet)",https://gastate.view.usg.edu/d2l/common/popup/popup.d2l?ou=2703385&queryString=ou%3D2703385%26uid%3D1714550&footerMsg=&buttonOffset=0&popBodySrc=/d2l/lms/discussions/stats/user_statistics_popup.d2l&width=715&height=650&hasStatusBar=false&hasAutoScroll=true&hasHiddenHeader=false&p=d2l_cntl_38513e7de1a64f7c86962ff492e1e55c_1,/d2l/common/popup/popup.d2l?ou=2703385&queryString=ou%3D2703385%26uid%3D1714550&footerMsg=&buttonOffset=0&popBodySrc=/d2l/lms/discussions/stats/user_statistics_popup.d2l&width=715&height=650&hasStatusBar=false&hasAutoScroll=true&hasHiddenHeader=false&p=d2l_cntl_38513e7de1a64f7c86962ff492e1e55c_1,^/d2l/common/popup/popup.d2l\\?.*popBodySrc=/d2l/lms/discussions/.*
+Discussions,Discussions List,https://gastate.view.usg.edu/d2l/le/2703385/discussions/List,/d2l/le/2703385/discussions/List,^/d2l/le/[0-9]+/discussions/.*$
+Discussions,New Discussion (from module),https://gastate.view.usg.edu/d2l/le/activities/edit/TVRBM01EVTFOVjh6TURBd1h6TTNPREV4TXpFLjI3MDMzODU?launchedFromLessons=False&returnUrl=%2fd2l%2fle%2fcontent%2f2703385%2fviewContent%2f60814349%2fView&isNew=True&returnText=Back+to+Content&optOutUrl=%2fd2l%2fle%2fcontent%2f2703385%2fviewContent%2f60814349%2fView&cancelUrl=%2fd2l%2fle%2fcontent%2f2703385%2fHome&isParentActivityNew=True,/d2l/le/activities/edit/TVRBM01EVTFOVjh6TURBd1h6TTNPREV4TXpFLjI3MDMzODU?launchedFromLessons=False&returnUrl=%2fd2l%2fle%2fcontent%2f2703385%2fviewContent%2f60814349%2fView&isNew=True&returnText=Back+to+Content&optOutUrl=%2fd2l%2fle%2fcontent%2f2703385%2fviewContent%2f60814349%2fView&cancelUrl=%2fd2l%2fle%2fcontent%2f2703385%2fHome&isParentActivityNew=True,^/d2l/le/activities/edit/[a-zA-Z0-9]+\\?.*returnUrl=%2fd2l%2fle%[0-9]+]%2fdiscussions%2fList.*$
+Discussions,Group and Sections Restrictions,https://gastate.view.usg.edu/d2l/lms/discussions/admin/group_restrictions.d2l?ou=2703385,/d2l/lms/discussions/admin/group_restrictions.d2l?ou=2703385,^/d2l/lms/discussions/.*$
+Discussions,Create Restricted Topics,https://gastate.view.usg.edu/d2l/lms/discussions/admin/group_restrictions_create.d2l?ou=2703385&fid=1130412&gc=,/d2l/lms/discussions/admin/group_restrictions_create.d2l?ou=2703385&fid=1130412&gc=,^/d2l/lms/discussions/.*$
+Discussions,Subscriptions,https://gastate.view.usg.edu/d2l/lms/discussions/admin/subscriptions.d2l?ou=2703385,/d2l/lms/discussions/admin/subscriptions.d2l?ou=2703385,^/d2l/lms/discussions/.*$
+Discussions,Statistics ,https://gastate.view.usg.edu/d2l/lms/discussions/stats/statistics_forums_topics.d2l?d2l_isfromtab=1&ou=2703385,/d2l/lms/discussions/stats/statistics_forums_topics.d2l?d2l_isfromtab=1&ou=2703385,^/d2l/lms/discussions/.*$
+Discussions,Statistics ,https://gastate.view.usg.edu/d2l/lms/discussions/stats/statistics_users.d2l?ou=2703385,/d2l/lms/discussions/stats/statistics_users.d2l?ou=2703385,^/d2l/lms/discussions/.*$
+Edit Homepage and Navbar,Manage Widgets,https://gastate.view.usg.edu/d2l/lp/homepage/admin/widget/widget_manage.d2l?ou=2703385,/d2l/lp/homepage/admin/widget/widget_manage.d2l?ou=2703385,^/d2l/lp/homepage/admin/widget/.*$
+Edit Homepage and Navbar,New Widget,https://gastate.view.usg.edu/d2l/lp/homepage/admin/widget/widget_newedit_properties.d2l?ou=2703385,/d2l/lp/homepage/admin/widget/widget_newedit_properties.d2l?ou=2703385,^/d2l/lp/homepage/admin/widget/.*$
+Edit Homepage and Navbar,Edit Widget,https://gastate.view.usg.edu/d2l/lp/homepage/admin/widget/widget_newedit_properties.d2l?wid=556562&ou=2703385,/d2l/lp/homepage/admin/widget/widget_newedit_properties.d2l?wid=556562&ou=2703385,^/d2l/lp/homepage/admin/widget/.*$
+Edit Homepage and Navbar,Create Homepage,https://gastate.view.usg.edu/d2l/lp/homepages/2703385/create,/d2l/lp/homepages/2703385/create,^/d2l/lp/homepages/[0-9]+/.*$
+Edit Homepage and Navbar,Edit Homepage,https://gastate.view.usg.edu/d2l/lp/homepages/2703385/edit/251343,/d2l/lp/homepages/2703385/edit/251343,^/d2l/lp/homepages/[0-9]+/.*$
+Edit Homepage and Navbar,Homepages,https://gastate.view.usg.edu/d2l/lp/homepages/2703385/list,/d2l/lp/homepages/2703385/list,^/d2l/lp/homepages/[0-9]+/.*$
+Edit Homepage and Navbar,Create Link Group,https://gastate.view.usg.edu/d2l/lp/navbars/2703385/customgroup/create,/d2l/lp/navbars/2703385/customgroup/create,^/d2l/lp/navbars/[0-9]+/customgroup/create.*$
+Edit Homepage and Navbar,Edit Custom Link Group,https://gastate.view.usg.edu/d2l/lp/navbars/2703385/customgroup/edit/493647,/d2l/lp/navbars/2703385/customgroup/edit/493647,^/d2l/lp/navbars/[0-9]+/customgroup/edit.*$
+Edit Homepage and Navbar,Create Link,https://gastate.view.usg.edu/d2l/lp/navbars/2703385/customlink/create,/d2l/lp/navbars/2703385/customlink/create,^/d2l/lp/navbars/[0-9]+/customlink/create.*$
+Edit Homepage and Navbar,Edit Custom Link,https://gastate.view.usg.edu/d2l/lp/navbars/2703385/customlink/edit/1175433,/d2l/lp/navbars/2703385/customlink/edit/1175433,^/d2l/lp/navbars/[0-9]+/customlink/edit.*$
+Edit Homepage and Navbar,Custom Links,https://gastate.view.usg.edu/d2l/lp/navbars/2703385/customlink/list,/d2l/lp/navbars/2703385/customlink/list,^/d2l/lp/navbars/[0-9]+/customlink/list.*$
+Edit Homepage and Navbar,Manage Navigation & Themes,https://gastate.view.usg.edu/d2l/lp/navbars/2703385/list,/d2l/lp/navbars/2703385/list,^/d2l/lp/navbars/[0-9]+/list.*$
+Edit Homepage and Navbar,Create Navbar,https://gastate.view.usg.edu/d2l/lp/navbars/2703385/navbar/Create,/d2l/lp/navbars/2703385/navbar/Create,^/d2l/lp/navbars/[0-9]+/navbar/Create.*$
+Edit Homepage and Navbar,Edit Navbar,https://gastate.view.usg.edu/d2l/lp/navbars/2703385/navbar/Edit/341625?isCopySetActive=0,/d2l/lp/navbars/2703385/navbar/Edit/341625?isCopySetActive=0,^/d2l/lp/navbars/[0-9]+/navbar/Edit.*$
+Edit Homepage and Navbar,Edit Navbar,https://gastate.view.usg.edu/d2l/lp/navbars/2703385/navbar/Edit/341625?isCopySetActive=0,/d2l/lp/navbars/2703385/navbar/Edit/341625?isCopySetActive=0,^/d2l/lp/navbars/[0-9]+/navbar/Edit.*$
+Edit Homepage and Navbar,Create Theme,https://gastate.view.usg.edu/d2l/lp/navbars/2703385/theme/create,/d2l/lp/navbars/2703385/theme/create,^/d2l/lp/navbars/[0-9]+/theme/create.*$
+Edit Homepage and Navbar,Edit Theme,https://gastate.view.usg.edu/d2l/lp/navbars/2703385/theme/edit/edit/68078,/d2l/lp/navbars/2703385/theme/edit/edit/68078,^/d2l/lp/navbars/[0-9]+/theme/edit.*$
+Edit Homepage and Navbar,Themes,https://gastate.view.usg.edu/d2l/lp/navbars/2703385/themes/list,/d2l/lp/navbars/2703385/themes/list,^/d2l/lp/navbars/[0-9]+/themes/list.*$
+Edit Quiz,Syllabus Quiz,https://gastate.view.usg.edu/d2l/le/activities/edit/TVRBM01EVTFOVjgxTVRBd01GODBOVFl3TkRrdy4yNzAzMzg1?launchedFromLessons=False&returnUrl=%2fd2l%2flms%2fquizzing%2fadmin%2fquizzes_manage.d2l%3fou%3d2703385&returnText=Back+to+Manage+Quizzes&optOutUrl=%2fd2l%2flms%2fquizzing%2fadmin%2fmodify%2fquiz_newedit_properties.d2l%3fou%3d2703385%26qi%3d4560490,/d2l/le/activities/edit/TVRBM01EVTFOVjgxTVRBd01GODBOVFl3TkRrdy4yNzAzMzg1?launchedFromLessons=False&returnUrl=%2fd2l%2flms%2fquizzing%2fadmin%2fquizzes_manage.d2l%3fou%3d2703385&returnText=Back+to+Manage+Quizzes&optOutUrl=%2fd2l%2flms%2fquizzing%2fadmin%2fmodify%2fquiz_newedit_properties.d2l%3fou%3d2703385%26qi%3d4560490,^/d2l/le/activities/edit/[a-zA-Z0-9]+\\?.*returnUrl=%2fd2l%2flms%2fquizzing%2fadmin%2fquizzes_manage\\.d2l.*$
+Edit Quiz,Edit Quiz,https://gastate.view.usg.edu/d2l/le/activities/edit/TVRBM01EVTFOVjgxTVRBd01GODFNamc0TmpBeS4yNzAzMzg1?launchedFromLessons=False&returnUrl=%2fd2l%2flms%2fquizzing%2fadmin%2fquizzes_manage.d2l%3fou%3d2703385&isNew=True&returnText=Back+to+Manage+Quizzes&optOutUrl=%2fd2l%2flms%2fquizzing%2fadmin%2fmodify%2fquiz_newedit_properties.d2l%3fou%3d2703385%26qi%3d5288602,/d2l/le/activities/edit/TVRBM01EVTFOVjgxTVRBd01GODFNamc0TmpBeS4yNzAzMzg1?launchedFromLessons=False&returnUrl=%2fd2l%2flms%2fquizzing%2fadmin%2fquizzes_manage.d2l%3fou%3d2703385&isNew=True&returnText=Back+to+Manage+Quizzes&optOutUrl=%2fd2l%2flms%2fquizzing%2fadmin%2fmodify%2fquiz_newedit_properties.d2l%3fou%3d2703385%26qi%3d5288602,^/d2l/le/activities/edit/[a-zA-Z0-9]+\\?.*returnUrl=%2fd2l%2flms%2fquizzing%2fadmin%2fquizzes_manage\\.d2l.*$
+Edit Quiz,Syllabus Quiz Preview,https://gastate.view.usg.edu/d2l/lms/quizzing/user/quiz_summary.d2l?ou=2703385&qi=4560490&isprv=1&fromQB=1&bp=1,/d2l/lms/quizzing/user/quiz_summary.d2l?ou=2703385&qi=4560490&isprv=1&fromQB=1&bp=1,^/d2l/lms/quizzing/user/quiz_summary\\.d2l.*$
+Email,Email,https://gastate.view.usg.edu/d2l/lms/email/frame.d2l?ou=1070555,/d2l/lms/email/frame.d2l?ou=1070555,^/d2l/lms/email/frame\\.d2l.*$
+Entering Grades and Configuring Settings,Enter Grades,https://gastate.view.usg.edu/d2l/lms/grades/admin/enter/user_list_view.d2l?ou=2703385,/d2l/lms/grades/admin/enter/user_list_view.d2l?ou=2703385,^/d2l/lms/grades/admin/enter/user_list_view\\.d2l.*$
+Entering Grades and Configuring Settings,View Event Log,https://gastate.view.usg.edu/d2l/lms/grades/admin/manage/gradebook_eventlog.d2l?gradesArea=1&ou=2703385,/d2l/lms/grades/admin/manage/gradebook_eventlog.d2l?gradesArea=1&ou=2703385,^/d2l/lms/grades/admin/manage/gradebook_eventlog\\.d2l.*$
+Entering Grades and Configuring Settings,Calculation Options,https://gastate.view.usg.edu/d2l/lms/grades/admin/settings/calculation_options.d2l?d2l_isfromtab=1&ou=2703385,/d2l/lms/grades/admin/settings/calculation_options.d2l?d2l_isfromtab=1&ou=2703385,^/d2l/lms/grades/admin/settings/calculation_options\\.d2l.*$
+Entering Grades and Configuring Settings,Org Unit Display Options,https://gastate.view.usg.edu/d2l/lms/grades/admin/settings/orgunit_display_options.d2l?d2l_isfromtab=1&ou=2703385,/d2l/lms/grades/admin/settings/orgunit_display_options.d2l?d2l_isfromtab=1&ou=2703385,^/d2l/lms/grades/admin/settings/orgunit_display_options\\.d2l.*$
+Entering Grades and Configuring Settings,Personal Display Options,https://gastate.view.usg.edu/d2l/lms/grades/admin/settings/personal_display_options.d2l?ou=2703385,/d2l/lms/grades/admin/settings/personal_display_options.d2l?ou=2703385,^/d2l/lms/grades/admin/settings/personal_display_options\\.d2l.*$
+Export Grades,Demo Student,https://gastate.view.usg.edu/d2l/lms/grades/admin/enter/grade_user_edit.d2l?ou=2703385&d2l_iterId=56867751&d2l_itemId=2070905,/d2l/lms/grades/admin/enter/grade_user_edit.d2l?ou=2703385&d2l_iterId=56867751&d2l_itemId=2070905,^/d2l/lms/grades/admin/enter/grade_user_edit\\.d2l.*$
+Export Grades,Export Grades,https://gastate.view.usg.edu/d2l/lms/grades/admin/importexport/export/options_edit.d2l?ou=2703385,/d2l/lms/grades/admin/importexport/export/options_edit.d2l?ou=2703385,^/d2l/lms/grades/admin/importexport/export/options_edit\\.d2l.*$
+Export Grades,View Event Log,https://gastate.view.usg.edu/d2l/lms/grades/admin/manage/gradebook_eventlog.d2l?gradesArea=1&ou=2703385,/d2l/lms/grades/admin/manage/gradebook_eventlog.d2l?gradesArea=1&ou=2703385,^/d2l/lms/grades/admin/manage/gradebook_eventlog\\.d2l.*$
+External Learning Tools,LTI Advantage Links,https://gastate.view.usg.edu/d2l/le/ltiadvantage/2703385/links?ou=2703385,/d2l/le/ltiadvantage/2703385/links?ou=2703385,^/d2l/le/ltiadvantage/[0-9]+/links.*$
+External Learning Tools,Manage Links,https://gastate.view.usg.edu/d2l/lms/links/manage_links.d2l?ou=2703385,/d2l/lms/links/manage_links.d2l?ou=2703385,^/d2l/lms/links/manage_links\\.d2l.*$
+External Learning Tools,Tool Status,https://gastate.view.usg.edu/d2l/lp/tools/orgUnits/2703385,/d2l/lp/tools/orgUnits/2703385,^/d2l/lp/tools/orgUnits/[0-9]+.*$
+FAQs,New FAQ Category,https://gastate.view.usg.edu/d2l/lms/faq/category_newedit.d2l?ou=2703385,/d2l/lms/faq/category_newedit.d2l?ou=2703385,^/d2l/lms/faq/.*$
+FAQs,Manage FAQ,https://gastate.view.usg.edu/d2l/lms/faq/manage_Faq.d2l?ext=0&ou=2703385,/d2l/lms/faq/manage_Faq.d2l?ext=0&ou=2703385,^/d2l/lms/faq/.*$
+FAQs,New Question,https://gastate.view.usg.edu/d2l/lms/faq/question_newedit.d2l?ou=2703385,/d2l/lms/faq/question_newedit.d2l?ou=2703385,^/d2l/lms/faq/.*$
+Generic LTI,LTI prefix?,https://gastate.view.usg.edu/d2l/common/dialogs/quickLink,/d2l/common/dialogs/quickLink,^/d2l/common/dialogs/quickLink/quickLink\\.d2l.*$
+Generic LTI,OAuth Consent,https://gastate.view.usg.edu/d2l/lp/auth/oauth2/consent?client=ea8cb525-3dde-42fe-a7c8-37968979a8d0&scope=core%3a*%3a*+grades%3agradeobjects%3awrite+grades%3agradeobjects%3aread+grades%3agradevalues%3awrite&x_state=vt.us-east-1.JdHjaQLHCR6RBcV5NL5VuVV9CswDiheW_MDi6VndU00,/d2l/lp/auth/oauth2/consent?client=ea8cb525-3dde-42fe-a7c8-37968979a8d0&scope=core%3a*%3a*+grades%3agradeobjects%3awrite+grades%3agradeobjects%3aread+grades%3agradevalues%3awrite&x_state=vt.us-east-1.JdHjaQLHCR6RBcV5NL5VuVV9CswDiheW_MDi6VndU00,^/d2l/lp/auth/oauth2/consent.*$
+Global Homepage,Global Homepage,https://gastate.view.usg.edu/d2l/home,/d2l/home,^/d2l/home(\\?.*)?$
+Glossary,Glossary,https://gastate.view.usg.edu/d2l/lms/glossary/glossary.d2l?ou=2703385,/d2l/lms/glossary/glossary.d2l?ou=2703385,^/d2l/lms/glossary/.*$
+Glossary,Import Terms,https://gastate.view.usg.edu/d2l/lms/glossary/import.d2l?ou=2703385&nb=0,/d2l/lms/glossary/import.d2l?ou=2703385&nb=0,^/d2l/lms/glossary/.*$
+Gradebook Setup,Import Grades,https://gastate.view.usg.edu/d2l/lms/grades/admin/importexport/import/file_select.d2l?ou=2703385,/d2l/lms/grades/admin/importexport/import/file_select.d2l?ou=2703385,^/d2l/lms/grades/admin/importexport/import/file_select\\.d2l.*$
+Gradebook Setup,Manage Grades,https://gastate.view.usg.edu/d2l/lms/grades/admin/manage/gradeslist.d2l?ou=2703385,/d2l/lms/grades/admin/manage/gradeslist.d2l?ou=2703385,^/d2l/lms/grades/admin/manage/gradeslist\\.d2l.*$
+Gradebook Setup,Schemes List,https://gastate.view.usg.edu/d2l/lms/grades/admin/schemes/schemes_list.d2l?ou=2703385,/d2l/lms/grades/admin/schemes/schemes_list.d2l?ou=2703385,^/d2l/lms/grades/admin/schemes/schemes_list\\.d2l.*$
+Gradebook Setup,Grades Setup Wizard,https://gastate.view.usg.edu/d2l/lms/grades/admin/settings/wizard_options.d2l?ou=2703385,/d2l/lms/grades/admin/settings/wizard_options.d2l?ou=2703385,^/d2l/lms/grades/admin/settings/wizard_options\\.d2l.*$
+Grading Quizzes,Grade Quiz,https://gastate.view.usg.edu/d2l/lms/quizzing/admin/mark/quiz_mark_users.d2l?qi=4560490&ou=2703385,/d2l/lms/quizzing/admin/mark/quiz_mark_users.d2l?qi=4560490&ou=2703385,^/d2l/lms/quizzing/admin/mark/.*$
+Grading Quizzes,Statistics,https://gastate.view.usg.edu/d2l/lms/quizzing/admin/stats/stats_course.d2l?ou=2703385,/d2l/lms/quizzing/admin/stats/stats_course.d2l?ou=2703385,^/d2l/lms/quizzing/admin/stats/.*$
+Grading Quizzes,View Statistics (Question),https://gastate.view.usg.edu/d2l/lms/quizzing/admin/stats/stats_question.d2l?d2l_isfromtab=1&qi=4560490&ie=True&ou=2703385,/d2l/lms/quizzing/admin/stats/stats_question.d2l?d2l_isfromtab=1&qi=4560490&ie=True&ou=2703385,^/d2l/lms/quizzing/admin/stats/.*$
+Grading Quizzes,View Statistics (Question details),https://gastate.view.usg.edu/d2l/lms/quizzing/admin/stats/stats_question_details.d2l?d2l_isfromtab=1&qi=4560490&ie=True&ou=2703385,/d2l/lms/quizzing/admin/stats/stats_question_details.d2l?d2l_isfromtab=1&qi=4560490&ie=True&ou=2703385,^/d2l/lms/quizzing/admin/stats/.*$
+Grading Quizzes,View Statistics (User),https://gastate.view.usg.edu/d2l/lms/quizzing/admin/stats/stats_user.d2l?qi=4560490&ou=2703385,/d2l/lms/quizzing/admin/stats/stats_user.d2l?qi=4560490&ou=2703385,^/d2l/lms/quizzing/admin/stats/.*$
+Groups,New Category,https://gastate.view.usg.edu/d2l/lms/group/category_newedit.d2l?ou=2703385,/d2l/lms/group/category_newedit.d2l?ou=2703385,^/d2l/lms/group/.*$
+Groups,Edit Category- Test Group,https://gastate.view.usg.edu/d2l/lms/group/category_newedit.d2l?ou=2703385&categoryId=982633,/d2l/lms/group/category_newedit.d2l?ou=2703385&categoryId=982633,^/d2l/lms/group/.*$
+Groups,Enroll Users- Test Group,https://gastate.view.usg.edu/d2l/lms/group/group_enroll.d2l?ou=2703385&categoryId=982633&groupId=3048652,/d2l/lms/group/group_enroll.d2l?ou=2703385&categoryId=982633&groupId=3048652,^/d2l/lms/group/.*$
+Groups,Manage Groups,https://gastate.view.usg.edu/d2l/lms/group/group_list.d2l?ou=2703385,/d2l/lms/group/group_list.d2l?ou=2703385,^/d2l/lms/group/.*$
+Groups,Edit Group,https://gastate.view.usg.edu/d2l/lms/group/group_list.d2l?ou=2703385,/d2l/lms/group/group_list.d2l?ou=2703385,^/d2l/lms/group/.*$
+Groups,Group Display Options,https://gastate.view.usg.edu/d2l/lms/group/group_member_list_settings.d2l?ou=2703385,/d2l/lms/group/group_member_list_settings.d2l?ou=2703385,^/d2l/lms/group/.*$
+Groups,About Groups,https://gastate.view.usg.edu/d2l/lp/inlineHelp/2703385/help?titleTerm=Groups.OrientationText.hdgGroups&descriptionTerm=Groups.OrientationText.txtGroups,/d2l/lp/inlineHelp/2703385/help?titleTerm=Groups.OrientationText.hdgGroups&descriptionTerm=Groups.OrientationText.txtGroups,^/d2l/lp/inlineHelp/[0-9]+/help\\?titleTerm=Groups.OrientationText.hdgGroups&descriptionTerm=Groups.OrientationText.txtGroups
+iLearn,iLearn,https://gastate.view.usg.edu/d2l/lp/navbars/1070555/customlinks/external/1610881,/d2l/lp/navbars/1070555/customlinks/external/1610881,^/d2l/lp/navbars/1070555/customlinks/external/1610881.*$
+Intelligent Agents,Agent List,https://gastate.view.usg.edu/d2l/lms/IntelligentAgents/AgentList.d2l?ou=2703385,/d2l/lms/IntelligentAgents/AgentList.d2l?ou=2703385,^/d2l/lms/IntelligentAgents/.*$
+Intelligent Agents,Edit Categories,https://gastate.view.usg.edu/d2l/lms/IntelligentAgents/AgentList.d2l?ou=2703385,/d2l/lms/IntelligentAgents/AgentList.d2l?ou=2703385,^/d2l/lms/IntelligentAgents/.*$
+Intelligent Agents,Export Agent History,https://gastate.view.usg.edu/d2l/lms/intelligentAgents/export.d2l?ou=2703385,/d2l/lms/intelligentAgents/export.d2l?ou=2703385,^/d2l/lms/IntelligentAgents/.*$
+Intelligent Agents,Restore Agents,https://gastate.view.usg.edu/d2l/lms/IntelligentAgents/restoreAgents.d2l?ou=2703385,/d2l/lms/IntelligentAgents/restoreAgents.d2l?ou=2703385,^/d2l/lms/IntelligentAgents/.*$
+Kaltura,Kaltura My Media,https://gastate.view.usg.edu/d2l/common/dialogs/quickLink/quickLink.d2l?ou=2703385&type=lti&rcode=usgx-32285594&srcou=1070555&launchFramed=1&framedName=Kaltura+My+Media,/d2l/common/dialogs/quickLink/quickLink.d2l?ou=2703385&type=lti&rcode=usgx-32285594&srcou=1070555&launchFramed=1&framedName=Kaltura+My+Media,^/d2l/common/dialogs/quickLink/quickLink\\.d2l\\?.*framedName=Katura.*$
+Kaltura,Kaltura Course Gallery,https://gastate.view.usg.edu/d2l/common/dialogs/quickLink/quickLink.d2l?ou=2703385&type=lti&rcode=usgx-32285595&srcou=1070555&launchFramed=1&framedName=Kaltura+Course+Gallery,/d2l/common/dialogs/quickLink/quickLink.d2l?ou=2703385&type=lti&rcode=usgx-32285595&srcou=1070555&launchFramed=1&framedName=Kaltura+Course+Gallery,^/d2l/common/dialogs/quickLink/quickLink\\.d2l\\?.*framedName=Katura.*$
+Lockdown,LockDown Browser,https://gastate.view.usg.edu/d2l/lms/quizzing/admin/modify/quiz_newedit_respondus.d2l?ou=2703385,/d2l/lms/quizzing/admin/modify/quiz_newedit_respondus.d2l?ou=2703385,^/d2l/lms/quizzing/admin/modify/quiz_newedit_respondus\\.d2l.*$
+Manage Files,Manage Files,https://gastate.view.usg.edu/d2l/lp/manageFiles/main.d2l?ou=2703385,/d2l/lp/manageFiles/main.d2l?ou=2703385,^/d2l/lp/manageFiles/.*$
+Manage Quizzes,Edit Categories,https://gastate.view.usg.edu/d2l/lms/quizzing/admin/quizzes_categories.d2l?ou=2703385,/d2l/lms/quizzing/admin/quizzes_categories.d2l?ou=2703385,^/d2l/lms/quizzing/admin/quizzes_.*$
+Manage Quizzes,Manage Quizzes,https://gastate.view.usg.edu/d2l/lms/quizzing/admin/quizzes_manage.d2l?ou=2703385,/d2l/lms/quizzing/admin/quizzes_manage.d2l?ou=2703385,^/d2l/lms/quizzing/admin/quizzes_.*$
+Manage Quizzes,Bulk Edit Quizzes,https://gastate.view.usg.edu/d2l/lms/quizzing/admin/quizzes_quickedit.d2l?ql=4560490&ql=4560491&ql=4560494&ql=4560495&ql=4560496&ql=4560497&ql=4560498&ql=4560499&ql=4560500&ql=4560501&ql=4560502&ql=4560503&ql=4560504&ql=4560505&ql=4560506&ql=4560507&ql=4560508&ql=4560509&ql=4560492&ql=4560493&ou=2703385,/d2l/lms/quizzing/admin/quizzes_quickedit.d2l?ql=4560490&ql=4560491&ql=4560494&ql=4560495&ql=4560496&ql=4560497&ql=4560498&ql=4560499&ql=4560500&ql=4560501&ql=4560502&ql=4560503&ql=4560504&ql=4560505&ql=4560506&ql=4560507&ql=4560508&ql=4560509&ql=4560492&ql=4560493&ou=2703385,^/d2l/lms/quizzing/admin/quizzes_.*$
+Manage Quizzes,Reorder Quizzes,https://gastate.view.usg.edu/d2l/lms/quizzing/admin/quizzes_reorder.d2l?ou=2703385,/d2l/lms/quizzing/admin/quizzes_reorder.d2l?ou=2703385,^/d2l/lms/quizzing/admin/quizzes_.*$
+Manage Quizzes,Restore Quizzes,https://gastate.view.usg.edu/d2l/lms/quizzing/admin/quizzes_reorder.d2l?ou=2703385,/d2l/lms/quizzing/admin/quizzes_reorder.d2l?ou=2703385,^/d2l/lms/quizzing/admin/quizzes_.*$
+Notifications,Notifications,https://gastate.view.usg.edu/d2l/Notifications/Settings?ou=1070555&global=0,/d2l/Notifications/Settings?ou=1070555&global=0,^/d2l/Notifications/.*$
+Question Library,Question Library - New Section,https://gastate.view.usg.edu/d2l/lms/qc/main_frame.d2l?ctid=1&ti=32000&ou=2703385,/d2l/lms/qc/main_frame.d2l?ctid=1&ti=32000&ou=2703385,^/d2l/lms/qc/main_frame\\.d2l.*$
+Question Library,Question Library - True or False,https://gastate.view.usg.edu/d2l/lms/qc/main_frame.d2l?ctid=1&ti=32000&ou=2703385,/d2l/lms/qc/main_frame.d2l?ctid=1&ti=32000&ou=2703385,^/d2l/lms/qc/main_frame\\.d2l.*$
+Question Library,Question Library,https://gastate.view.usg.edu/d2l/lms/qc/main_frame.d2l?ctid=1&ti=51000&ou=2703385,/d2l/lms/qc/main_frame.d2l?ctid=1&ti=51000&ou=2703385,^/d2l/lms/qc/main_frame\\.d2l.*$
+Question Library,Question Library - Help,https://gastate.view.usg.edu/d2l/lp/inlineHelp/2703385/help?titleTerm=QuestionCollection.OrientationText.hdgQuestionLibrary&descriptionTerm=QuestionCollection.OrientationText.txtQuestionLibrary,/d2l/lp/inlineHelp/2703385/help?titleTerm=QuestionCollection.OrientationText.hdgQuestionLibrary&descriptionTerm=QuestionCollection.OrientationText.txtQuestionLibrary,^/d2l/lp/inlineHelp/[0-9]+/help\\?.*titleTerm=QuestionCollection\\.OrientationText\\.hdgQuestionLibrary.*$
+Quick Eval,Quick Eval,https://gastate.view.usg.edu/d2l/le/2809977/quickeval/,/d2l/le/2809977/quickeval/,^/d2l/le/[0-9]+/quickeval/.*$
+Rubrics,Edit Rubric,https://gastate.view.usg.edu/d2l/lp/rubrics/edit_structure.d2l?ou=2703385&rubricId=849399,/d2l/lp/rubrics/edit_structure.d2l?ou=2703385&rubricId=849399,^/d2l/lp/rubrics/.*$
+Rubrics,Rubrics,https://gastate.view.usg.edu/d2l/lp/rubrics/list.d2l?ou=2703385,/d2l/lp/rubrics/list.d2l?ou=2703385,^/d2l/lp/rubrics/.*$
+Student Progress,Demo Student (Progress),https://gastate.view.usg.edu/d2l/le/classprogress/userprogress/2070905/2703385/Summary?searchString=&sortDirection=0&sortField=SortLastName&classListFilterKey=all,/d2l/le/classprogress/userprogress/2070905/2703385/Summary?searchString=&sortDirection=0&sortField=SortLastName&classListFilterKey=all,^/d2l/le/classprogress/userprogress/.*$
+Student Progress,Class Progress,https://gastate.view.usg.edu/d2l/le/userprogress/2703385/classprogress/List?searchString=&sortDescending=0&sortField=SortLastName,/d2l/le/userprogress/2703385/classprogress/List?searchString=&sortDescending=0&sortField=SortLastName,^/d2l/le/userprogress/.*$
+Surveys,New Survey (from module),https://gastate.view.usg.edu/d2l/le/content/2703385/Survey/New?mId=52321096,/d2l/le/content/2703385/Survey/New?mId=52321096,^/d2l/le/content/[0-9]+/Survey/.*$
+Surveys,New Survey - Objectives,https://gastate.view.usg.edu/d2l/lms/survey/admin/modify/survey_newedit_activities.d2l?d2l_isfromtab=1&si=5293454&ou=2703385,/d2l/lms/survey/admin/modify/survey_newedit_activities.d2l?d2l_isfromtab=1&si=5293454&ou=2703385,^/d2l/lms/survey/.*$
+Surveys,New Survey (w/Name) - Properties,https://gastate.view.usg.edu/d2l/lms/survey/admin/modify/survey_newedit_properties.d2l?d2l_isfromtab=1&si=5293454&ou=2703385,/d2l/lms/survey/admin/modify/survey_newedit_properties.d2l?d2l_isfromtab=1&si=5293454&ou=2703385,^/d2l/lms/survey/.*$
+Surveys,New Survey ,https://gastate.view.usg.edu/d2l/lms/survey/admin/modify/survey_newedit_properties.d2l?ou=2703385,/d2l/lms/survey/admin/modify/survey_newedit_properties.d2l?ou=2703385,^/d2l/lms/survey/.*$
+Surveys,New Survey - Reports Setup,https://gastate.view.usg.edu/d2l/lms/survey/admin/modify/survey_newedit_reports.d2l?d2l_isfromtab=1&si=5293454&ou=2703385,/d2l/lms/survey/admin/modify/survey_newedit_reports.d2l?d2l_isfromtab=1&si=5293454&ou=2703385,^/d2l/lms/survey/.*$
+Surveys,New Survey - Restrictions,https://gastate.view.usg.edu/d2l/lms/survey/admin/modify/survey_newedit_restrictions.d2l?d2l_isfromtab=1&si=5293454&ou=2703385,/d2l/lms/survey/admin/modify/survey_newedit_restrictions.d2l?d2l_isfromtab=1&si=5293454&ou=2703385,^/d2l/lms/survey/.*$
+Surveys,Edit Categories,https://gastate.view.usg.edu/d2l/lms/survey/admin/surveys_categories.d2l?ou=2703385,/d2l/lms/survey/admin/surveys_categories.d2l?ou=2703385,^/d2l/lms/survey/.*$
+Surveys,Manage Surveys,https://gastate.view.usg.edu/d2l/lms/survey/admin/surveys_manage.d2l?ou=2703385,/d2l/lms/survey/admin/surveys_manage.d2l?ou=2703385,^/d2l/lms/survey/.*$
+User Profile,Edit User Profile,https://gastate.view.usg.edu/d2l/lp/profile/profile_edit.d2l?ou=2703385,/d2l/lp/profile/profile_edit.d2l?ou=2703385,^/d2l/lp/profile/profile_edit.d2l.*$
+Webex,Webex,https://gastate.view.usg.edu/d2l/common/dialogs/quickLink/quickLink.d2l?ou=2703385&type=lti&rcode=usgx-14639007&srcou=1070555&launchFramed=1&framedName=Webex,/d2l/common/dialogs/quickLink/quickLink.d2l?ou=2703385&type=lti&rcode=usgx-14639007&srcou=1070555&launchFramed=1&framedName=Webex,^/d2l/common/dialogs/quickLink/quickLink\\.d2l\\?.*framedName=Webex.*$
+Webex,Loading�,https://gastate.view.usg.edu/d2l/lp/auth/oauth2/consent?client=ea8cb525-3dde-42fe-a7c8-37968979a8d0&scope=core%3a*%3a*+grades%3agradeobjects%3awrite+grades%3agradeobjects%3aread+grades%3agradevalues%3awrite&x_state=vt.us-east-1.JdHjaQLHCR6RBcV5NL5VuVV9CswDiheW_MDi6VndU00,/d2l/lp/auth/oauth2/consent?client=ea8cb525-3dde-42fe-a7c8-37968979a8d0&scope=core%3a*%3a*+grades%3agradeobjects%3awrite+grades%3agradeobjects%3aread+grades%3agradevalues%3awrite&x_state=vt.us-east-1.JdHjaQLHCR6RBcV5NL5VuVV9CswDiheW_MDi6VndU00,^/d2l/lp/auth/oauth2/consent\\?.*client=ea8cb525-3dde-42fe-a7c8-37968979a8d0.*$
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,

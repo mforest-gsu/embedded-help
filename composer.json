@@ -1,0 +1,35 @@
+{
+  "name": "mforest-gsu/embedded-help",
+  "homepage": "https://github.com/mforest-gsu",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Melody Kimball",
+      "email": "mforest@gsu.edu"
+    }
+  ],
+  "require": {
+    "php": "^8.1"
+  },
+  "require-dev": {
+    "phpstan/extension-installer": "^1.1",
+    "phpstan/phpstan": "^1.10",
+    "phpstan/phpstan-strict-rules": "^1.5",
+    "squizlabs/php_codesniffer": "^3.7"
+  },
+  "config": {
+    "allow-plugins": {
+      "phpstan/extension-installer": true
+    }
+  },
+  "autoload": {
+    "psr-4": {
+      "GSU\\EmbeddedHelp\\": "src/php/"
+    }
+  },
+  "scripts": {
+    "configBuilder": ["GSU\\EmbeddedHelp\\ConfigBuilder::main"],
+    "phpcs": "vendor/bin/phpcs",
+    "phpstan": "vendor/bin/phpstan analyse -c phpstan.neon"
+  }
+}
